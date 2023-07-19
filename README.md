@@ -1,3 +1,7 @@
+# The View of The App
+
+![image](https://github.com/ibrahimusluu/profile-finder-with-ES6/blob/master/image/App_View.png)
+
 # profile-finder-with-ES6
 
 HTML, CSS with BootStrap and Pure JavaScript ES6 using JsonPlaceHolder API
